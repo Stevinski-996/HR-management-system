@@ -1,5 +1,6 @@
 # HR-management-system
 ## Lab 07 
+
 today ill be working on the requirments of lab 07 which will be on the following aspects : 
 1- Creating Home Page 
 
@@ -29,3 +30,4 @@ today ill be working on the requirments of lab 07 which will be on the following
     **Navigation Header for other pages
     **Main empty
     **Footer with social media links & Copyright
+

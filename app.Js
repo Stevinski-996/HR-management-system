@@ -128,39 +128,7 @@ function renderEmployeeCard(employee) {
     card.appendChild(infoContainer);
 
     // Append card to the DOM
-    document.getElementById("employeeCards").appendChild(card);
-
-    
-
-    //           // Determine the employee's department section
-    //         let departmentSectionId;
-    //             switch (this.department) {  
-    //              case "Administration":
-    //               departmentSectionId = "administrationCards";
-    //              break;
-    //              case "Marketing":
-    //              departmentSectionId = "marketingCards";
-    //              break;
-    //              case "Development":
-    //              departmentSectionId = "developmentCards";
-    //              break;
-    //              case "Finance":
-    //              departmentSectionId = "financeCards";
-    //              break;
-    //              default: 
-    //              departmentSectionId = "employeeCards"; // Fallback for unknown
-    //   }
-
-    // //   // Append to the correct section
-    //   document.getElementById(departmentSectionId).appendChild(card); 
-}
-// function renderOldNew () {
-// for (let i=0 ; i < allEmployees.length ; i++) {
-//     allEmployees[i].renderEmployeeCard();
-// }
-// }
-
-// renderOldNew () ;
+    document.getElementById("employeeCards").appendChild(card);}
 
 // Notes :
 // Constructor Object gets its values (Parameters) from linked Objects 

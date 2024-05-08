@@ -31,3 +31,15 @@ today ill be working on the requirments of lab 07 which will be on the following
     **Main empty
     **Footer with social media links & Copyright
 
+
+## Lab 08
+
+in this lab updates will be done regarding taught topics as follows : 
+
+1- A form will be created to include (Full-Name,Department,Level,Img,Submit Btn)
+
+2-Function that generate unique four digits eployee ID
+
+3-Event listener to get the data from form 
+
+4-loop rendering each employee information on a seperate card in the home page through a function
